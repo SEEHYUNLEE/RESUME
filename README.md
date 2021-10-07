@@ -21,9 +21,8 @@
 >>[MapleStory](https://maplestory.nexon.com/Home/Main)  
 >>[League of Legends](https://www.leagueoflegends.com/ko-kr/)  
 >>Tekken7  
-<img src=Maple.jpg height=200 width=200>
-<img src=LOL.jpg height=200 width=250>
-<img src=Tekken7.jpg height=200 width=250>  
+
+![Alt text](games.png)  
 
 ---  
 
