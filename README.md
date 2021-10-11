@@ -70,6 +70,18 @@
 
 ---  
 ### 교육 프로그램
+*수료한 프로그램*  
+|연도|프로그램명|
+|:---:|:---:|
+|2020년|신입생 몰입형 SW코딩캠프|
+|2021년|SQL과 자바 데이터 베이스 프로그래밍|
+|2021년|Introduction to Intelligent Algorithms for Automated Vehicle System|
+|2021년|ASIC Design and Verfication|
+|2021년|선배가 바라는 SW신입사원|
+|2021년|오픈소스 개요|
+|2021년|제품 내장형 AI 동향|
+|2021년|블록체인 기술의 동작 원리|
+|2021년|Personalization|
 
 ---
 
