@@ -1,5 +1,4 @@
 # Resume
----
 <img src=SEEHYUNLEE.jpg height=300 width=225>
 
 **이시현(SEEHYUNLEE)**  
