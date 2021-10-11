@@ -30,6 +30,8 @@
 1. C
 2. Java
 3. Python
+
+![Alt text](languages.png)    
 ---  
 ### 성적
 **1학년 1학기**  
