@@ -39,7 +39,9 @@
 3. Python
 
 ![Alt text](languages.png)    
+
 ---  
+
 ### 성적
 **1학년 1학기**  
 |과목|학점|성적|
