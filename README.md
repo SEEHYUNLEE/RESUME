@@ -18,9 +18,8 @@
 * **게임 개발**  
 
 
->*사용해본 게임엔진*  
-→ Unity / Unreal Engine  
-![Alt text](unity.png)  
+>→ Unity / Unreal Engine  
+![Alt text](unity.png)  <img src=UnrealEngine.png height=160 width=500>  
 > *좋아하는 게임*  
 >>[MapleStory](https://maplestory.nexon.com/Home/Main)  
 >>[League of Legends](https://www.leagueoflegends.com/ko-kr/)  
